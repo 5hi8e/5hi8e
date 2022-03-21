@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @5hi8e
-- 👀 I’m interested in ... blender add-on, code editor customization espesially neovim
-- 🌱 I’m currently learning ... Computer Science and Finance
+- 👋 Hi, I’m @5hi8e from Japan
+- 👀 I’m interested in GeoPython
+- 🌱 I’m currently learning ... Computer Science at University of the People (Since 2021)
 
 <!---
 5hi8e/5hi8e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
